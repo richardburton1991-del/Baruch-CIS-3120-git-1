@@ -21,6 +21,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Entries:
 <!-- Students: Add your entries below this line! -->
+
+**Ernest Afful** (GitHub: ErnestAfful): My favorite movie is Gone Girl!
 - **John-Paul Galan** (GitHub: jgal2): My favorite movie is Moneyball!
 
 **Jatin Talwar** (GitHub: Jatin930): My favorite movie is Spider Man 2
